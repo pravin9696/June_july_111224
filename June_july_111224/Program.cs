@@ -2,6 +2,13 @@
 
 namespace June_july_111224
 {
+    class myNewClass
+    {
+        public void show()
+        {
+            Console.WriteLine("hello");
+        }
+    }
     class AA
     {
         public AA()
